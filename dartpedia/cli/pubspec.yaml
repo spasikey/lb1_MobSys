@@ -11,6 +11,10 @@ dependencies:
   http: ^1.3.0
   command_runner:
     path: /Users/aleksandr/flt_progs/lb_mob/lb1_MobSys/dartpedia/command_runner
+  wikipedia:
+    path: /Users/aleksandr/flt_progs/lb_mob/lb1_MobSys/dartpedia/wikipedia
+  logging: ^1.2.0
+
 
 dev_dependencies:
   lints: ^6.0.0
